@@ -1,1 +1,1 @@
-# generator_porudzbine
+Program za pravljenje porudzbine za neku robu
